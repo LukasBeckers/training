@@ -1,3 +1,5 @@
 .venv/*
 .git/*
-
+.ipynb_checkpoints/*
+archive.zip
+Pistachio_Image_Dataset/*
