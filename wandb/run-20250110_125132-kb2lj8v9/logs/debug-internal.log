@@ -1,0 +1,24 @@
+{"time":"2025-01-10T12:51:32.910822551Z","level":"INFO","msg":"stream: starting","core version":"0.19.2","symlink path":"/mnt/Lukas/Übung/wandb/run-20250110_125132-kb2lj8v9/logs/debug-core.log"}
+{"time":"2025-01-10T12:51:33.013439355Z","level":"INFO","msg":"created new stream","id":"kb2lj8v9"}
+{"time":"2025-01-10T12:51:33.013475735Z","level":"INFO","msg":"stream: started","id":"kb2lj8v9"}
+{"time":"2025-01-10T12:51:33.013527765Z","level":"INFO","msg":"writer: Do: started","stream_id":"kb2lj8v9"}
+{"time":"2025-01-10T12:51:33.013554665Z","level":"INFO","msg":"sender: started","stream_id":"kb2lj8v9"}
+{"time":"2025-01-10T12:51:33.013587015Z","level":"INFO","msg":"handler: started","stream_id":"kb2lj8v9"}
+{"time":"2025-01-10T12:51:33.234537606Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-10T12:51:34.516608976Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-10T12:52:09.273367822Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-10T12:52:09.274949781Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-10T12:52:09.898468619Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-10T12:52:09.908931018Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-10T12:52:10.38230519Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-10T12:52:10.383974469Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-10T12:52:11.255391162Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-10T12:52:11.259242598Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-10T12:52:11.259825097Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-10T12:52:12.026540508Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-10T12:52:12.197611082Z","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-01-10T12:52:13.204233526Z","level":"INFO","msg":"stream: closing","id":"kb2lj8v9"}
+{"time":"2025-01-10T12:52:13.204260846Z","level":"INFO","msg":"handler: closed","stream_id":"kb2lj8v9"}
+{"time":"2025-01-10T12:52:13.204277806Z","level":"INFO","msg":"writer: Close: closed","stream_id":"kb2lj8v9"}
+{"time":"2025-01-10T12:52:13.204324926Z","level":"INFO","msg":"sender: closed","stream_id":"kb2lj8v9"}
+{"time":"2025-01-10T12:52:13.204346986Z","level":"INFO","msg":"stream: closed","id":"kb2lj8v9"}

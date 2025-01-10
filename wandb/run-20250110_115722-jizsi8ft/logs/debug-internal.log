@@ -1,0 +1,16 @@
+{"time":"2025-01-10T11:57:22.494042881Z","level":"INFO","msg":"stream: starting","core version":"0.19.2","symlink path":"/mnt/Lukas/Übung/wandb/run-20250110_115722-jizsi8ft/logs/debug-core.log"}
+{"time":"2025-01-10T11:57:22.595649947Z","level":"INFO","msg":"created new stream","id":"jizsi8ft"}
+{"time":"2025-01-10T11:57:22.595677827Z","level":"INFO","msg":"stream: started","id":"jizsi8ft"}
+{"time":"2025-01-10T11:57:22.595731097Z","level":"INFO","msg":"writer: Do: started","stream_id":"jizsi8ft"}
+{"time":"2025-01-10T11:57:22.595745077Z","level":"INFO","msg":"sender: started","stream_id":"jizsi8ft"}
+{"time":"2025-01-10T11:57:22.595762057Z","level":"INFO","msg":"handler: started","stream_id":"jizsi8ft"}
+{"time":"2025-01-10T11:57:22.83438551Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-10T11:58:01.025694898Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-10T11:58:01.026517218Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-10T11:58:01.727352276Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-10T11:58:02.026901732Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 79-99, summary, console lines 13-13","runtime_seconds":0.291707936}],"total_operations":1}}
+{"time":"2025-01-10T11:58:03.484420971Z","level":"INFO","msg":"stream: closing","id":"jizsi8ft"}
+{"time":"2025-01-10T11:58:03.484455731Z","level":"INFO","msg":"handler: closed","stream_id":"jizsi8ft"}
+{"time":"2025-01-10T11:58:03.484470521Z","level":"INFO","msg":"writer: Close: closed","stream_id":"jizsi8ft"}
+{"time":"2025-01-10T11:58:03.484516421Z","level":"INFO","msg":"sender: closed","stream_id":"jizsi8ft"}
+{"time":"2025-01-10T11:58:03.484565971Z","level":"INFO","msg":"stream: closed","id":"jizsi8ft"}

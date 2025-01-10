@@ -1,0 +1,16 @@
+{"time":"2025-01-10T12:38:02.246954071Z","level":"INFO","msg":"stream: starting","core version":"0.19.2","symlink path":"/mnt/Lukas/Übung/wandb/run-20250110_123802-tce8qpak/logs/debug-core.log"}
+{"time":"2025-01-10T12:38:02.349036162Z","level":"INFO","msg":"created new stream","id":"tce8qpak"}
+{"time":"2025-01-10T12:38:02.349083202Z","level":"INFO","msg":"stream: started","id":"tce8qpak"}
+{"time":"2025-01-10T12:38:02.349131652Z","level":"INFO","msg":"writer: Do: started","stream_id":"tce8qpak"}
+{"time":"2025-01-10T12:38:02.349171982Z","level":"INFO","msg":"sender: started","stream_id":"tce8qpak"}
+{"time":"2025-01-10T12:38:02.349180592Z","level":"INFO","msg":"handler: started","stream_id":"tce8qpak"}
+{"time":"2025-01-10T12:38:02.583375581Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-10T12:38:40.790436693Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-10T12:38:40.790934852Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-10T12:38:41.396487963Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-10T12:38:41.791711473Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 80-99, summary, console lines 3-3","runtime_seconds":0.391730285}],"total_operations":1}}
+{"time":"2025-01-10T12:38:42.875607396Z","level":"INFO","msg":"stream: closing","id":"tce8qpak"}
+{"time":"2025-01-10T12:38:42.875639066Z","level":"INFO","msg":"handler: closed","stream_id":"tce8qpak"}
+{"time":"2025-01-10T12:38:42.875653576Z","level":"INFO","msg":"writer: Close: closed","stream_id":"tce8qpak"}
+{"time":"2025-01-10T12:38:42.875682056Z","level":"INFO","msg":"sender: closed","stream_id":"tce8qpak"}
+{"time":"2025-01-10T12:38:42.875722996Z","level":"INFO","msg":"stream: closed","id":"tce8qpak"}

@@ -1,0 +1,51 @@
+2025-01-10 11:55:54,097 INFO    MainThread:1880064 [wandb_init.py:_log_setup():523] Logging user logs to /mnt/Lukas/Übung/wandb/run-20250110_115554-pmxra6yd/logs/debug.log
+2025-01-10 11:55:54,097 INFO    MainThread:1880064 [wandb_init.py:_log_setup():524] Logging internal logs to /mnt/Lukas/Übung/wandb/run-20250110_115554-pmxra6yd/logs/debug-internal.log
+2025-01-10 11:55:54,097 INFO    MainThread:1880064 [wandb_init.py:_jupyter_setup():469] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7f2a3b2fc520>
+2025-01-10 11:55:54,097 INFO    MainThread:1880064 [wandb_init.py:init():641] calling init triggers
+2025-01-10 11:55:54,097 INFO    MainThread:1880064 [wandb_init.py:init():647] wandb.init called with sweep_config: {}
+config: {'epochs': 100, 'learning_rate': 0.005, 'architecture': 'classifierModel(\n  (part_number_emb): Linear(in_features=1211, out_features=768, bias=False)\n  (price_adapter): Linear(in_features=1, out_features=768, bias=False)\n  (cluster_emb): Linear(in_features=102, out_features=768, bias=False)\n  (norm1): BatchNorm1d(768, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n  (linear1): Linear(in_features=768, out_features=384, bias=True)\n  (dropout1): Dropout(p=0.5, inplace=False)\n  (norm2): BatchNorm1d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n  (linear2): Linear(in_features=384, out_features=100, bias=True)\n  (dropout2): Dropout(p=0.5, inplace=False)\n)', 'optimizer': 'Adam', 'loss_function': 'CrossEntropyLoss'}
+2025-01-10 11:55:54,097 INFO    MainThread:1880064 [wandb_init.py:init():666] found existing run on stack: s2h78rkm
+2025-01-10 11:55:54,097 INFO    MainThread:1880064 [wandb_run.py:_finish():2140] finishing run lukas-beckers/Buchungscodes/s2h78rkm
+2025-01-10 11:55:54,097 INFO    MainThread:1880064 [wandb_run.py:_atexit_cleanup():2380] got exitcode: 0
+2025-01-10 11:55:54,097 INFO    MainThread:1880064 [wandb_run.py:_restore():2362] restore
+2025-01-10 11:55:54,097 INFO    MainThread:1880064 [wandb_run.py:_restore():2368] restore done
+2025-01-10 11:55:55,828 INFO    MainThread:1880064 [wandb_run.py:_footer_history_summary_info():3984] rendering history
+2025-01-10 11:55:55,828 INFO    MainThread:1880064 [wandb_run.py:_footer_history_summary_info():4016] rendering summary
+2025-01-10 11:55:55,830 INFO    MainThread:1880064 [wandb_run.py:_footer_sync_info():3945] logging synced files
+2025-01-10 11:55:55,832 INFO    MainThread:1880064 [wandb_init.py:init():674] starting backend
+2025-01-10 11:55:55,832 INFO    MainThread:1880064 [wandb_init.py:init():678] sending inform_init request
+2025-01-10 11:55:55,833 INFO    MainThread:1880064 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-01-10 11:55:55,833 INFO    MainThread:1880064 [wandb_init.py:init():693] backend started and connected
+2025-01-10 11:55:55,834 INFO    MainThread:1880064 [wandb_run.py:_label_probe_notebook():1226] probe notebook
+2025-01-10 11:55:55,834 INFO    MainThread:1880064 [wandb_run.py:_label_probe_notebook():1236] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2025-01-10 11:55:55,834 INFO    MainThread:1880064 [wandb_init.py:init():786] updated telemetry
+2025-01-10 11:55:55,836 INFO    MainThread:1880064 [wandb_init.py:init():818] communicating run to backend with 90.0 second timeout
+2025-01-10 11:55:56,216 INFO    MainThread:1880064 [wandb_init.py:init():868] starting run threads in backend
+2025-01-10 11:55:56,266 INFO    MainThread:1880064 [wandb_run.py:_console_start():2415] atexit reg
+2025-01-10 11:55:56,266 INFO    MainThread:1880064 [wandb_run.py:_redirect():2265] redirect: wrap_raw
+2025-01-10 11:55:56,266 INFO    MainThread:1880064 [wandb_run.py:_redirect():2330] Wrapping output streams.
+2025-01-10 11:55:56,266 INFO    MainThread:1880064 [wandb_run.py:_redirect():2355] Redirects installed.
+2025-01-10 11:55:56,266 INFO    MainThread:1880064 [wandb_init.py:init():910] run started, returning control to user process
+2025-01-10 11:55:56,267 INFO    MainThread:1880064 [wandb_watch.py:_watch():71] Watching
+2025-01-10 11:56:03,401 INFO    MainThread:1880064 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-10 11:56:03,401 INFO    MainThread:1880064 [wandb_init.py:_pause_backend():434] pausing backend
+2025-01-10 11:56:21,857 INFO    MainThread:1880064 [wandb_init.py:_resume_backend():439] resuming backend
+2025-01-10 11:56:21,859 INFO    MainThread:1880064 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-10 11:56:21,859 INFO    MainThread:1880064 [wandb_init.py:_pause_backend():434] pausing backend
+2025-01-10 11:56:22,407 INFO    MainThread:1880064 [wandb_init.py:_resume_backend():439] resuming backend
+2025-01-10 11:56:22,410 INFO    MainThread:1880064 [wandb_init.py:_log_setup():523] Logging user logs to /mnt/Lukas/Übung/wandb/run-20250110_115622-s3v28302/logs/debug.log
+2025-01-10 11:56:22,410 INFO    MainThread:1880064 [wandb_init.py:_log_setup():524] Logging internal logs to /mnt/Lukas/Übung/wandb/run-20250110_115622-s3v28302/logs/debug-internal.log
+2025-01-10 11:56:22,410 INFO    MainThread:1880064 [wandb_init.py:init():641] calling init triggers
+2025-01-10 11:56:22,410 INFO    MainThread:1880064 [wandb_init.py:init():647] wandb.init called with sweep_config: {}
+config: {'epochs': 100, 'learning_rate': 0.005, 'architecture': 'classifierModel(\n  (part_number_emb): Linear(in_features=1211, out_features=768, bias=False)\n  (price_adapter): Linear(in_features=1, out_features=768, bias=False)\n  (cluster_emb): Linear(in_features=102, out_features=768, bias=False)\n  (norm1): BatchNorm1d(768, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n  (linear1): Linear(in_features=768, out_features=384, bias=True)\n  (dropout1): Dropout(p=0.5, inplace=False)\n  (norm2): BatchNorm1d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n  (linear2): Linear(in_features=384, out_features=100, bias=True)\n  (dropout2): Dropout(p=0.5, inplace=False)\n)', 'optimizer': 'Adam', 'loss_function': 'CrossEntropyLoss'}
+2025-01-10 11:56:22,410 INFO    MainThread:1880064 [wandb_init.py:init():666] found existing run on stack: pmxra6yd
+2025-01-10 11:56:22,410 INFO    MainThread:1880064 [wandb_run.py:_finish():2140] finishing run lukas-beckers/Buchungscodes/pmxra6yd
+2025-01-10 11:56:22,410 ERROR   MainThread:1880064 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-01-10 11:56:22,410 INFO    MainThread:1880064 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-10 11:56:22,410 INFO    MainThread:1880064 [wandb_init.py:_jupyter_teardown():451] cleaning up jupyter logic
+2025-01-10 11:56:22,410 INFO    MainThread:1880064 [wandb_run.py:_atexit_cleanup():2380] got exitcode: 0
+2025-01-10 11:56:22,410 INFO    MainThread:1880064 [wandb_run.py:_restore():2362] restore
+2025-01-10 11:56:22,410 INFO    MainThread:1880064 [wandb_run.py:_restore():2368] restore done
+2025-01-10 11:56:24,138 INFO    MainThread:1880064 [wandb_run.py:_footer_history_summary_info():3984] rendering history
+2025-01-10 11:56:24,138 INFO    MainThread:1880064 [wandb_run.py:_footer_history_summary_info():4016] rendering summary
+2025-01-10 11:56:24,140 INFO    MainThread:1880064 [wandb_run.py:_footer_sync_info():3945] logging synced files

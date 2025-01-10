@@ -1,0 +1,4 @@
+Epoch 1/100 | Train Loss: 0.0926 | Val Loss: 0.7151 | Val Acc: 0.8245
+Saved Best Val Loss Model at epoch 1
+--> Saved Best Val Acc Model at epoch 1
+Epoch 100/100 | Train Loss: 1.2956 | Val Loss: 1.5576 | Val Acc: 0.7224

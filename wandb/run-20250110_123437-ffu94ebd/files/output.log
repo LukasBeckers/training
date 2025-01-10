@@ -1,0 +1,75 @@
+/mnt/Lukas/Übung/.venv/lib/python3.10/site-packages/torch/_dynamo/utils.py:2132: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return node.target(*args, **kwargs)
+/mnt/Lukas/Übung/.venv/lib/python3.10/site-packages/torch/_dynamo/utils.py:2132: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return node.target(*args, **kwargs)
+/mnt/Lukas/Übung/.venv/lib/python3.10/site-packages/torch/_dynamo/utils.py:2132: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return node.target(*args, **kwargs)
+/mnt/Lukas/Übung/.venv/lib/python3.10/site-packages/torch/_dynamo/utils.py:2132: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return node.target(*args, **kwargs)
+/mnt/Lukas/Übung/.venv/lib/python3.10/site-packages/torch/fx/interpreter.py:275: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return target(*args, **kwargs)
+/mnt/Lukas/Übung/.venv/lib/python3.10/site-packages/torch/fx/experimental/proxy_tensor.py:1230: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return func(*args, **kwargs)
+/mnt/Lukas/Übung/.venv/lib/python3.10/site-packages/torch/_dynamo/utils.py:2132: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return node.target(*args, **kwargs)
+/mnt/Lukas/Übung/.venv/lib/python3.10/site-packages/torch/_dynamo/utils.py:2132: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return node.target(*args, **kwargs)
+/mnt/Lukas/Übung/.venv/lib/python3.10/site-packages/torch/_dynamo/utils.py:2132: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return node.target(*args, **kwargs)
+/mnt/Lukas/Übung/.venv/lib/python3.10/site-packages/torch/_dynamo/utils.py:2132: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return node.target(*args, **kwargs)
+/mnt/Lukas/Übung/.venv/lib/python3.10/site-packages/torch/fx/interpreter.py:275: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return target(*args, **kwargs)
+/mnt/Lukas/Übung/.venv/lib/python3.10/site-packages/torch/fx/experimental/proxy_tensor.py:1230: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return func(*args, **kwargs)
+/mnt/Lukas/Übung/.venv/lib/python3.10/site-packages/torch/_dynamo/utils.py:2132: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return node.target(*args, **kwargs)
+/mnt/Lukas/Übung/.venv/lib/python3.10/site-packages/torch/_dynamo/utils.py:2132: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return node.target(*args, **kwargs)
+/mnt/Lukas/Übung/.venv/lib/python3.10/site-packages/torch/_dynamo/utils.py:2132: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return node.target(*args, **kwargs)
+/mnt/Lukas/Übung/.venv/lib/python3.10/site-packages/torch/_dynamo/utils.py:2132: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return node.target(*args, **kwargs)
+/mnt/Lukas/Übung/.venv/lib/python3.10/site-packages/torch/fx/interpreter.py:275: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return target(*args, **kwargs)
+/mnt/Lukas/Übung/.venv/lib/python3.10/site-packages/torch/fx/experimental/proxy_tensor.py:1230: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return func(*args, **kwargs)
+Epoch 1/100 | Train Loss: 3.6008 | Val Loss: 2.9005 | Val Acc: 0.5020
+Saved Best Val Loss Model at epoch 1
+--> Saved Best Val Acc Model at epoch 1
+Epoch 2/100 | Train Loss: 1.9498 | Val Loss: 1.8953 | Val Acc: 0.6354
+Saved Best Val Loss Model at epoch 2
+--> Saved Best Val Acc Model at epoch 2
+Epoch 3/100 | Train Loss: 1.4130 | Val Loss: 1.4825 | Val Acc: 0.6789
+Saved Best Val Loss Model at epoch 3
+--> Saved Best Val Acc Model at epoch 3
+Epoch 4/100 | Train Loss: 1.0507 | Val Loss: 1.2676 | Val Acc: 0.7156
+Saved Best Val Loss Model at epoch 4
+--> Saved Best Val Acc Model at epoch 4
+Epoch 5/100 | Train Loss: 0.7999 | Val Loss: 1.0825 | Val Acc: 0.7374
+Saved Best Val Loss Model at epoch 5
+--> Saved Best Val Acc Model at epoch 5
+Epoch 6/100 | Train Loss: 0.6219 | Val Loss: 0.9877 | Val Acc: 0.7497
+Saved Best Val Loss Model at epoch 6
+--> Saved Best Val Acc Model at epoch 6
+Epoch 7/100 | Train Loss: 0.5088 | Val Loss: 0.9005 | Val Acc: 0.7741
+Saved Best Val Loss Model at epoch 7
+--> Saved Best Val Acc Model at epoch 7
+Epoch 8/100 | Train Loss: 0.4038 | Val Loss: 0.8201 | Val Acc: 0.7946
+Saved Best Val Loss Model at epoch 8
+--> Saved Best Val Acc Model at epoch 8
+Epoch 9/100 | Train Loss: 0.3338 | Val Loss: 0.7781 | Val Acc: 0.7918
+Saved Best Val Loss Model at epoch 9
+--> Saved Best Val Acc Model at epoch 10Loss: 0.7800 | Val Acc: 0.8027
+--> Saved Best Val Acc Model at epoch 11Loss: 0.7923 | Val Acc: 0.8082
+Epoch 12/100 | Train Loss: 0.2500 | Val Loss: 0.7766 | Val Acc: 0.7932
+Saved Best Val Loss Model at epoch 12
+Epoch 13/100 | Train Loss: 0.2735 | Val Loss: 0.7195 | Val Acc: 0.8082
+Saved Best Val Loss Model at epoch 13
+Epoch 14/100 | Train Loss: 0.1810 | Val Loss: 0.6911 | Val Acc: 0.8190
+Saved Best Val Loss Model at epoch 14
+--> Saved Best Val Acc Model at epoch 14
+Epoch 22/100 | Train Loss: 0.1648 | Val Loss: 0.6704 | Val Acc: 0.8367
+Saved Best Val Loss Model at epoch 22
+--> Saved Best Val Acc Model at epoch 22
+Epoch 100/100 | Train Loss: 0.0944 | Val Loss: 0.8167 | Val Acc: 0.8177

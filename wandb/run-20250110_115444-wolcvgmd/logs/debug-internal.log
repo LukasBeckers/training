@@ -1,0 +1,22 @@
+{"time":"2025-01-10T11:54:45.194894286Z","level":"INFO","msg":"stream: starting","core version":"0.19.2","symlink path":"/mnt/Lukas/Übung/wandb/run-20250110_115444-wolcvgmd/logs/debug-core.log"}
+{"time":"2025-01-10T11:54:45.297695952Z","level":"INFO","msg":"created new stream","id":"wolcvgmd"}
+{"time":"2025-01-10T11:54:45.297727352Z","level":"INFO","msg":"stream: started","id":"wolcvgmd"}
+{"time":"2025-01-10T11:54:45.297778952Z","level":"INFO","msg":"writer: Do: started","stream_id":"wolcvgmd"}
+{"time":"2025-01-10T11:54:45.297822042Z","level":"INFO","msg":"handler: started","stream_id":"wolcvgmd"}
+{"time":"2025-01-10T11:54:45.297849012Z","level":"INFO","msg":"sender: started","stream_id":"wolcvgmd"}
+{"time":"2025-01-10T11:54:45.578876267Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-10T11:54:46.511495529Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-10T11:55:27.519750936Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-10T11:55:27.563711278Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-10T11:55:33.672078172Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-10T11:55:33.673463632Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-10T11:55:34.140952088Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-10T11:55:34.144909328Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-10T11:55:34.145541178Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-10T11:55:34.708832439Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-10T11:55:34.881188959Z","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-01-10T11:55:35.887700994Z","level":"INFO","msg":"stream: closing","id":"wolcvgmd"}
+{"time":"2025-01-10T11:55:35.887728764Z","level":"INFO","msg":"handler: closed","stream_id":"wolcvgmd"}
+{"time":"2025-01-10T11:55:35.887750044Z","level":"INFO","msg":"writer: Close: closed","stream_id":"wolcvgmd"}
+{"time":"2025-01-10T11:55:35.887787084Z","level":"INFO","msg":"sender: closed","stream_id":"wolcvgmd"}
+{"time":"2025-01-10T11:55:35.887810854Z","level":"INFO","msg":"stream: closed","id":"wolcvgmd"}

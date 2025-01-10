@@ -1,0 +1,14 @@
+Saved Best Val Loss Model at epoch 1al Loss: 1.2515 | Val Acc: 0.7796
+--> Saved Best Val Acc Model at epoch 1
+Saved Best Val Loss Model at epoch 2al Loss: 1.2142 | Val Acc: 0.7796
+Saved Best Val Loss Model at epoch 3al Loss: 1.2107 | Val Acc: 0.7864
+--> Saved Best Val Acc Model at epoch 3
+Saved Best Val Loss Model at epoch 5al Loss: 1.1353 | Val Acc: 0.7878
+--> Saved Best Val Acc Model at epoch 5
+--> Saved Best Val Acc Model at epoch 7Loss: 1.2162 | Val Acc: 0.7891
+--> Saved Best Val Acc Model at epoch 14Loss: 1.2120 | Val Acc: 0.7918
+--> Saved Best Val Acc Model at epoch 16Loss: 1.2193 | Val Acc: 0.7959
+--> Saved Best Val Acc Model at epoch 18Loss: 1.1844 | Val Acc: 0.7986
+--> Saved Best Val Acc Model at epoch 23Loss: 1.2527 | Val Acc: 0.8014
+--> Saved Best Val Acc Model at epoch 36Loss: 1.2430 | Val Acc: 0.8027
+Epoch 100/100 | Train Loss: 0.0700 | Val Loss: 1.3240 | Val Acc: 0.7837
